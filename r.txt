@@ -1,0 +1,6 @@
+python-nmap
+python3-nmap
+nmap
+socket
+os
+sys
